@@ -41,7 +41,7 @@ checks. (The term "type" is avoided because of the baggage it carries). A few
 others were quietly invited to the conversation.
 
 We spent a few months discussing this and he wrote a prototype, which is the
-code in this repository. The protoype is **ALPHA** code and absolutely should
+code in this repository. The prototype is **ALPHA** code and absolutely should
 not be used in production. Instead, it's a proof of concept to explore the
 problem space. It's also a way to get feedback from the community, which is
 why this repository is here.
